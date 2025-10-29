@@ -1,1 +1,4 @@
-# typescript-demo
+# TypeScript Demo
+
+Цей репозиторій створено для демонстрації базової конфігурації TypeScript-проєкту.
+Містить приклад використання типів `string`, `number` та `boolean`.
